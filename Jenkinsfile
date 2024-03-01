@@ -54,6 +54,7 @@ ssh -i ssh-key-2024-02-28.key ubuntu@144.21.38.188
 
 
 
+http://localhost:8080/
 
-
+144.21.38.188
 
